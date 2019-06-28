@@ -22,7 +22,7 @@ https://www.facebook.com/groups/284652862468386/
         <li>reboot หนึ่งรอบ</li>
     </ul>
 </div>
-<h2>สคริปท์ติดตั้ง เว็บสมัคร<br> https://github.com/jiraphaty/auto-script-vpn/blob/master/openvpnweb/ </h2>
+<h2>สคริปท์ติดตั้ง เว็บสมัคร<br> https://github.com/udoncyber/auto-script-vpn-master/tree/master/openvpnweb </h2>
 <hr>
 <h2>วิธีเปิดใช้งาน Login ด้วยรูท</h2>
  <ul>
