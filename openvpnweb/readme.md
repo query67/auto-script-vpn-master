@@ -43,4 +43,4 @@
             </ul>
         </li>
     </ul>
-<h2>สคริปท์ติดตั้ง openvpn https://github.com/jiraphaty/auto-script-vpn</h2>
+<h2>สคริปท์ติดตั้ง openvpn https://github.com/udoncyber/auto-script-vpn-master</h2>
